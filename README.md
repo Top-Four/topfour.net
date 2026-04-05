@@ -10,7 +10,7 @@ You can add a /top4 page to your personal website as a lightweight and engaging 
 
 ### 1. Go to the data file
 
-[Go to data file...](https://github.com/peterspath/topfour.net/blob/main/data/data.json)
+[Go to data file...](https://github.com/Top-Four/topfour.net/blob/main/data/data.json)
 
 
 ### 2. Edit file
