@@ -10,8 +10,6 @@ minify_html = true
 generate_feeds = false
 build_search_index = false
 
-[markdown]
-highlight_code = false
 
 [extra]
 tags = "top 4, top four, top 4 lists, personal rankings, favorite movies, best albums, top books, favorite snacks, best games, top video games, best productivity tools, favorite comfort foods"
